@@ -1,0 +1,13 @@
+***********************Ativando ambiente virtual************************
+pip3 install virtualenv -instalação
+
+virtualenv .venv --python 3.13.1(criando a pasta no venv com versão atual do python VSCode)
+
+.\.venv\Scripts\activate -ativar ambiente virtual no windons
+
+***********************************************************************
+deactivate -saindo do ambiente virtual
+
+
+***************Instalando pacotes necessários*************************
+pip3 install Flask-RESTful
