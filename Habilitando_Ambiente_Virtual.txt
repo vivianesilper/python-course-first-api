@@ -10,4 +10,5 @@ deactivate -saindo do ambiente virtual
 
 
 ***************Instalando pacotes necessários*************************
-pip3 install Flask-RESTful
+No ambiente virtual instalar
+pip install Flask-RESTful
