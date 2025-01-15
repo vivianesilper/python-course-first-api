@@ -1,4 +1,5 @@
-***********************Ativando ambiente virtual************************
+***********************Comandos Básicos para o Ambiente Virtual************************
+Ativando ambiente virtual
 pip3 install virtualenv -instalação
 
 virtualenv .venv --python 3.13.1(criando a pasta no venv com versão atual do python VSCode)
