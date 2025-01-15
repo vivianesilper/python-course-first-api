@@ -9,6 +9,8 @@ virtualenv .venv --python 3.13.1(criando a pasta no venv com versão atual do py
 ***********************************************************************
 deactivate -saindo do ambiente virtual
 
+*********************Rodando o teste**********************************
+python -m pytest -v
 
 ***************Instalando pacotes necessários*************************
 No ambiente virtual instalar
