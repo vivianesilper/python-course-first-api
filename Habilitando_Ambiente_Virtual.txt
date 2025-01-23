@@ -33,3 +33,8 @@ Werkzeug==3.1.3
 
 $env:FLASK_APP='app:create_app("development")'
 set FLASK_APP=app:create_app("development")
+
+*********Habilitando flask db init no Windows***************************
+*Terminal do powershell do VSCode
+flask --app "app:create_app('your_config')" db init
+
